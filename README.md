@@ -1,7 +1,5 @@
   Hi there 👋, I am Kerry Kipsang
 
-
-- 👋 Hi, I’m @kxrrym03
 - 👀 I’m interested in Data Science and AI/ML
 - 💞️ I’m looking to collaborate on recent projects
 - 📫 You can reach out to me via 📧 Email: [kerrykipsang@gmail.com](kerrykipsang@gmail.com.com)
