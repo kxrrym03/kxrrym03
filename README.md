@@ -31,9 +31,9 @@
 
 
   ## GITHUB STATS
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrrym03&show_icons=true&theme=dark)
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&langs_count=6&theme=dark)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxrrym03&langs_count=6&theme=dark)
 
 
   
