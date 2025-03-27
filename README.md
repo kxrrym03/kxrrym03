@@ -26,9 +26,7 @@
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
+  
 
   ## GITHUB STATS
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrrym03&show_icons=true&theme=dark)
