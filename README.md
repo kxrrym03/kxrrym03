@@ -11,11 +11,13 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  Machine learning is just fancy math trying to act smart, kind of like a student who didn’t study but still guesses the right answers! 📚🎯 It learns from mistakes (just like us), except it doesn’t cry over bad grades. 😆
 
+
   ## TECH STACK
   ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
   ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+
 
   ## TOOLS & FRAMEWORKS
   ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
@@ -26,6 +28,7 @@
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
 
   ## GITHUB STATS
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
