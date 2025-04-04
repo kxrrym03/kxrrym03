@@ -33,7 +33,7 @@
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxrrym03&langs_count=6&theme=dark)
 
- ![GitHub Streak](https://streak-stats.demolab.com/?user=kxrrym03&theme=dark)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kxrrym03&theme=dark)
 
 
   
