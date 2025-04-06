@@ -1,4 +1,4 @@
- ## Hi there 👋, I am Kerry Kipsang
+ ## Hi there 👋, I am Kerry Kipsang.
 
 - 👀 I’m interested in Data Science and AI/ML
 - 💞️ I’m looking to collaborate on recent projects
