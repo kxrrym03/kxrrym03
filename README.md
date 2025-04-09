@@ -5,7 +5,7 @@
 - 📫 You can reach out to me via 📧 Email: [kerrykipsang@gmail.com](kerrykipsang@gmail.com.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kerry-kipsang-6a91ba32a/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/KipsangKerry?t=YOowjAhIRlYbEeOovA24Pw&s=09)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kerry_kipsang/profilecard/?igsh=MTBxajJ0am04cm05aw==)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kerry.kipsang/profilecard/?igsh=MTBxajJ0am04cm05aw==)
 
 
 - 😄 Pronouns: She/Her
