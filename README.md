@@ -9,7 +9,7 @@
 
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:  Machine learning is just fancy math trying to act smart, kind of like a student who didn’t study but still guesses the right answers! 📚🎯 It learns from mistakes (just like us), except it doesn’t cry over bad grades. 😆
+- ⚡ Fun fact:  Machine learning is just fancy math trying to act smart, kind of like a student who didn’t study but still guesses the right answers. It learns from mistakes (just like us), except it doesn’t cry over bad grades. 
 
 
   ## TECH STACK
