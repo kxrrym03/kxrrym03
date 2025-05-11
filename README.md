@@ -1,6 +1,6 @@
  ## Hi there 👋, I am Kerry Kipsang.
 
-- 👀 I’m interested in Data Science and AI/ML
+- 👀 I’m interested in Data Science and AI/ML.
 - 💞️ I’m looking to collaborate on recent projects
 - 📫 You can reach out to me via 📧 Email: [kerrykipsang@gmail.com](kerrykipsang@gmail.com.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kerry-kipsang-6a91ba32a/)
