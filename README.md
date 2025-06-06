@@ -29,11 +29,12 @@
   
 
   ## GITHUB STATS
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrrym03&show_icons=true&theme=dark)
+ [![Kerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrrym03&show_icons=true&theme=radical&hide_border=true)](https://github.com/kxrrym03)
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxrrym03&langs_count=6&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxrrym03&layout=compact&theme=radical&hide_border=true)](https://github.com/kxrrym03)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kxrrym03&theme=radical&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=kxrrym03&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
