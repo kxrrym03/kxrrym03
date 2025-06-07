@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kerry.kipsang/profilecard/?igsh=MTBxajJ0am04cm05aw==)
 
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact:  Machine learning is just fancy math trying to act smart, kind of like a student who didn’t study but still guesses the right answers. It learns from mistakes (just like us), except it doesn’t cry over bad grades. 
 
 
