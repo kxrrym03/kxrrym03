@@ -29,30 +29,6 @@
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-  
-
-  ## GITHUB STATS
- [![Kerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrrym03&show_icons=true&theme=radical&hide_border=true)](https://github.com/kxrrym03)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxrrym03&layout=compact&theme=radical&hide_border=true)](https://github.com/kxrrym03)
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=kxrrym03&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
-## 🏆 GitHub Trophies.
-[![trophy](https://github-profile-trophy.vercel.app/?username=kxrrym03&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-
-
-  
-
 <!---
 kxrrym03/kxrrym03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
